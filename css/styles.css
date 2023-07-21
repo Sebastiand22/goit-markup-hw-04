@@ -100,7 +100,7 @@ h2 {
   padding: 2px 4px;
   position: relative;
   box-sizing: border-box;
-  background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("./images/backgroundimg.jpg");
+  background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../images/backgroundimg.jpg);
   width: 100%;
   margin-bottom: 94px;
   padding: 94px 0px 94px 0;
